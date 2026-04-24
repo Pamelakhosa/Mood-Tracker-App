@@ -1,24 +1,20 @@
-Mood Tracker App
+# Mood Tracker App (Flutter)
 
- 
-Description
-Track your moods, reflect daily, and view patterns over time — all in one clean and simple Flutter app.
+A mobile application built using Flutter that allows users to track their daily moods and visualize emotional trends over time.
 
-
- Features
+## 📱 Features
 - Record daily moods
 - View mood history
 - Simple and intuitive UI
 - Lightweight and fast performance
-  
-  Languages:
 
-- Dart & Flutter
+## 🛠️ Technologies Used
+- Flutter
+- Dart
 
-Environments Used 
+## 🎯 Purpose
+This project was developed to practice mobile app development using Flutter and to demonstrate skills in building user-friendly applications.
 
-- Windows 11
-- Visual studio code
 
 
 
