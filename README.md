@@ -1,19 +1,24 @@
-<h1>Mood Tracker</h1>
+Mood Tracker App
 
  
-<h2>Description</h2>
+Description
 Track your moods, reflect daily, and view patterns over time — all in one clean and simple Flutter app.
-<br />
 
 
-<h2>Languages and Utilities Used</h2>
+ Features
+- Record daily moods
+- View mood history
+- Simple and intuitive UI
+- Lightweight and fast performance
+  
+  Languages:
 
-- <b>Dart & Flutter</b>
+- Dart & Flutter
 
-<h2>Environments Used </h2>
+Environments Used 
 
-- <b>Windows 11</b>
-- <b>Visual studio code<b>
+- Windows 11
+- Visual studio code
 
 
 
